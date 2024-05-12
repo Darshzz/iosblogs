@@ -1,10 +1,8 @@
 ## iosblogs
 
-> Darshan Mothreja - 2 min read
-
 # Some and Any keyword in Swift
 
-> Hey everyone I am Darshan Mothreja!! Been coding since ‘15. Some can say it was love at first byte. I engineer apps with such finesse, they practically dance through your device. And if you’re a dev feeling lost in the code jungle, fear not! I’m here to be your coding compass, guiding you through the wilderness of curly braces and semicolons.
+> Darshan Mothreja - 2 mins read
 
 
 Swift 5.7 introduced 2 new keywords:  some  and  any. Because prior to Swift 5.7, We had to go through with error if we do not specify a specify type to the associatedType defined in Protocol
